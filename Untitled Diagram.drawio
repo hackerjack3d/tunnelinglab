@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T04:23:01.427Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="5pheP5lg29hSBgjDnn7h" version="15.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-24T04:25:54.390Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="OG2M83Nz14k0A2nPlGkh" version="15.3.1" type="github">
   <diagram id="C8_kxAK0KzZd8ScJWdYP" name="Page-1">
     <mxGraphModel dx="2544" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
         <mxCell id="q_evUdxcSX7wJStd2-a_-8" value="DRUNKENBEAR" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/195-flat-flag-psd-icons/70/Russia.png;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="20" y="70" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="q_evUdxcSX7wJStd2-a_-9" value="RUBYDRAGON" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/195-flat-flag-psd-icons/70/China.png;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="q_evUdxcSX7wJStd2-a_-9" value="CRIMSONDRAGON" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/195-flat-flag-psd-icons/70/China.png;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="760" y="70" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="q_evUdxcSX7wJStd2-a_-27" value="VLAN 12&lt;br&gt;&amp;nbsp;185.179.199.206/24&amp;nbsp;" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=#99CCFF;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/272_Raspberry_Pi_logo-128.png;spacing=2;labelBorderColor=#007FFF;labelPosition=center;align=center;" vertex="1" parent="1">
